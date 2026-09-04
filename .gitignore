@@ -1,0 +1,22 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Données générées (ChromaDB)
+data/chroma_db/
+
+# Documents internes Siryos (confidentiels)
+data/documents/
+data/uploaded_docs/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
