@@ -10,6 +10,7 @@ data/chroma_db/
 
 # Documents internes Siryos (confidentiels)
 data/documents/
+**/data/chroma_db/
 data/uploaded_docs/
 
 # Python
